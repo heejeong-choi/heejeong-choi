@@ -14,5 +14,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+[![heejeong-choi's github stats](https://github-readme-stats.vercel.app/api?username=heejeong-choi&show_icons=true&theme=dracula)](https://github.com/heejeong-choi/github-readme-stats)
+
 
 <img src="https://capsule-render.vercel.app/api?section=footer">
