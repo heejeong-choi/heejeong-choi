@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?)
 
 
-<center> ### 👋 Hi there 👋     
-</center> 
+<center> 👋 Hi there 👋 </center> 
 
 - 🔭 I’m currently looking for job.
 - 🌱 I’m currently learning Java / Spring / MySQL / HTML / CSS / Javascript 
