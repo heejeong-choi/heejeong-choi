@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?)
+<img src="https://capsule-render.vercel.app/api?">
 
 <center>Welcome to my Github!</center>
 
