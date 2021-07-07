@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?">
 
-<p align="center">#Welcome to my github!</p>
+<p align="center">Welcome to my github!</p>
 
 - 🔭 I’m currently looking for job.
 - 🌱 I’m currently learning Java / Spring / MySQL / HTML / CSS / Javascript 
