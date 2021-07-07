@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?)
 
 
-<center> ### 👋 Hi there 👋
+<center> ### 👋 Hi there 👋     
+</center> 
 
 - 🔭 I’m currently looking for job.
 - 🌱 I’m currently learning Java / Spring / MySQL / HTML / CSS / Javascript 
@@ -14,8 +15,6 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-    
-</center> 
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
