@@ -15,4 +15,4 @@
 </a>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<img src="https://capsule-render.vercel.app/api?section=footer">
