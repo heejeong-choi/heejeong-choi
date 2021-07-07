@@ -5,3 +5,5 @@
 - 💬 Ask me about job offer in worldwide
 - 📫 How to reach me: jennachoi27@gmail.com
 - ⚡ Fun fact: I used to study Physics in uni.
+
+https://img.shields.io/github/followers/heejeong-choi?style=social
