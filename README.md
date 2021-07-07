@@ -6,4 +6,8 @@
 - 📫 How to reach me: jennachoi27@gmail.com
 - ⚡ Fun fact: I used to study Physics in uni.
 
-https://img.shields.io/github/followers/heejeong-choi?style=social
+<a href="https://instagram.com/hxxjxong.choi">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
