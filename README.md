@@ -8,14 +8,9 @@
 - 📫 How to reach me: jennachoi27@gmail.com
 - ⚡ Fun fact: I used to study Physics in uni.
 
-<a href="https://instagram.com/hxxjxong.choi">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heejeongchoi27/)](https://www.linkedin.com/in/heejeongchoi27/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heejeongchoi27/)](https://www.linkedin.com/in/heejeongchoi27/)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heejeong.choi.54966)](https://www.facebook.com/heejeong.choi.54966)
+  [![Instagram Badge](https://img.shields.io/badge/instagram-fff000?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heejeong.choi.54966)](https://www.facebook.com/heejeong.choi.54966)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennachoi27@gmail.com)](mailto:jennachoi27@gmail.com)
 
   <div align=center>
