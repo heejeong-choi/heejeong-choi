@@ -15,6 +15,10 @@
 - ⚡ Fun fact: I used to study Physics in uni.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejeong-choi)](https://github.com/heejeong-choi/github-readme-stats)
+
+
+
 <div align=center>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heejeongchoi27/)](https://www.linkedin.com/in/heejeongchoi27/)
