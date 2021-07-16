@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Heejeong Choi&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 <div align=center>
@@ -23,4 +22,3 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennachoi27@gmail.com)](mailto:jennachoi27@gmail.com)
 </div>
   
-<img src="https://capsule-render.vercel.app/api?section=footer">
