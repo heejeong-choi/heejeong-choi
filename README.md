@@ -8,7 +8,7 @@
 </div>
 
 <style>
-h2 {
+.h2 {
 	text-align:center
 	}
 </style>
