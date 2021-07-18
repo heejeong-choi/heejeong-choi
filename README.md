@@ -15,8 +15,8 @@
 <h4 align=center>💻 Bootcamp <br>
 	- 90Factory (2021.02-2021.08) </h4>
 	
-<h4 align=center>Bootcamp <br>
-	- 90Factory (2021.02-2021.08) </h4>
+<h4 align=center>✈ Abroad<br>
+	- Working Holiday in Netherlands (2018.12-2019.12) </h4>
 
 
 
