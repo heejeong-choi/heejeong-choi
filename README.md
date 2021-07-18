@@ -7,6 +7,12 @@
 	
 </div>
 
+<style>
+h2 {
+	text-align:center
+	}
+</style>
+
 <h2>Welcome to my Github</h2>
 
 <h4>📖 Education <br>
