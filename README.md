@@ -7,13 +7,7 @@
 	
 </div>
 
-<style>
-.h2 {
-	text-align:center
-	}
-</style>
-
-<h2>Welcome to my Github</h2>
+<h2 style="text-align:center">Welcome to my Github</h2>
 
 <h4>📖 Education <br>
 	- Bachelor degree of Physics in Hankuk University of Foreign Studies (2014.03-2020-02) </h4>
