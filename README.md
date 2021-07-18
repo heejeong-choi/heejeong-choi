@@ -11,9 +11,9 @@
 
 <div>
 	<h4>📖 Education <br>
-		- Bachelor degree of Physics in Hankuk University of Foreign Studies (2014.03-2020-02) </h4>
+		- Bachelor degree of Physics in Hankuk University of Foreign Studies (2014.03-2020-02)  <br>
 
-	<h4>💻 Bootcamp <br>
+	💻 Bootcamp <br>
 		- 90Factory (2021.02-2021.08) </h4>
 
 	🔥
