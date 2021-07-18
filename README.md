@@ -9,11 +9,11 @@
 
 <h2 text-align:center>Welcome to my Github</h2>
 
-	<h4>📖 Education <br>
-		- Bachelor degree of Physics in Hankuk University of Foreign Studies (2014.03-2020-02)  </h4>
+<h4>📖 Education <br>
+	- Bachelor degree of Physics in Hankuk University of Foreign Studies (2014.03-2020-02)  </h4>
 
-	<h4>💻 Bootcamp <br>
-		- 90Factory (2021.02-2021.08) </h4>
+<h4>💻 Bootcamp <br>
+	- 90Factory (2021.02-2021.08) </h4>
 
 
 
